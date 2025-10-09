@@ -36,3 +36,80 @@
     padding-top: 400px;
     padding-left: 400px;
 }
+
+
+
+.page3{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(189, 239, 239);
+}
+.top-box{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    width: 100%;
+    height: 75%;
+    background-color: rosybrown;
+}
+.top-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    gap: 10px;
+}
+.top-right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 100%;
+}
+.top-card{
+    display: flex;
+    padding: 14px;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+}
+.topcard2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.box1{
+    background-color: beige;
+    padding: 40px;
+}
+.box2{
+    background-color: lightblue;
+    padding: 40px;
+}
+.box3{
+    background-color: lightgreen;
+    padding: 40px;
+}
+.box4{
+    background-color: lightpink;
+    padding: 40px;
+}
+.box5{
+    background-color: lightgray;
+    padding: 40px;
+}
+.box6{
+    background-color: lightyellow;
+    padding: 40px;
+}
