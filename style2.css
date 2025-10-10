@@ -105,9 +105,7 @@ section{
     justify-content: space-around;
     background-color: aliceblue;
 }
-.heading{
-    
-}
+
 .cells{
     display: flex;
     gap: 40px;
